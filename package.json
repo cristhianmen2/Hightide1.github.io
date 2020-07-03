@@ -1,0 +1,16 @@
+{
+  "name": "hightide1",
+  "version": "1.0.0",
+  "description": "Nuestro primer proyecto de nodejs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Cristhianmen2@bitbucket.org/Cristhianmen2/hightide1.git"
+  },
+  "author": "Cristhian Mendez",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/Cristhianmen2/hightide1#readme"
+}
