@@ -1,20 +1,22 @@
   .jumbotron {
     background-color: lightblue;
     color: black;
+    margin-top: 50px;
     }
 
-    .btn {
-    	background-color: lightgreen;
-    }
-
-.footer{
+  footer{
     padding: 25px 10px 0px 10px;  
     margin-bottom: 0px;
     margin-top: 10px;
     background-color: lightblue;
     }
 
-  .card-hotel{
+
+.btn {
+    	background-color: lightgreen;
+    	width: 100%
+    }
+.card-hotel{
     	flex: 1 150px;
     	padding: 2px 5px 2px 5px
     }
