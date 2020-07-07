@@ -9,7 +9,7 @@
     margin-bottom: 0px;
     margin-top: 10px;
     background-color: lightblue;
-    }
+        }
 
 
 .btn {
@@ -20,5 +20,12 @@
     	flex: 1 150px;
     	padding: 2px 5px 2px 5px
     }
+.footer-adress-icon{
+        padding-right: 15px;
+    }
+
+.footer-adress-icon-1{
+    padding-right: 15px;
+}
 
    
