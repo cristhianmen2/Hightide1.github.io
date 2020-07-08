@@ -9,6 +9,7 @@
     margin-bottom: 0px;
     margin-top: 10px;
     background-color: lightblue;
+    color: black;
         }
 
 
@@ -19,6 +20,7 @@
 .card-hotel{
     	flex: 1 150px;
     	padding: 2px 5px 2px 5px
+        
     }
 .footer-adress-icon{
         padding-right: 15px;
@@ -28,4 +30,15 @@
     padding-right: 15px;
 }
 
-   
+.btn-primary{
+    width: 10%
+
+}
+
+.form-group{
+    padding-top: 10px
+}
+
+.container{
+    padding-bottom: 25px
+}
