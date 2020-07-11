@@ -1,7 +1,7 @@
   .jumbotron {
     background-color: lightblue;
     color: black;
-    margin-top: 50px;
+    margin-top: 80px;
     }
 
   footer{
@@ -41,4 +41,11 @@
 
 .container{
     padding-bottom: 25px
+}
+img{
+   height: 60px}
+
+img{
+    width: 100%
+    height: 300px;
 }
