@@ -43,7 +43,11 @@
     padding-bottom: 25px
 }
 img{
-   height: 60px}
-.img-fluid{
-    padding-left:7px
+   height: 60px
+}
+
+  .carousel-item{
+    padding-left:180px
+    }
+
 }
